@@ -127,4 +127,4 @@ df_reviews = pd.DataFrame(reviews)
 print(df_reviews)
 
 # Save data
-df_reviews.to_excel('reviews.xlsx', index=False)
+df_reviews.to_csv('reviews.csv', index=False)
