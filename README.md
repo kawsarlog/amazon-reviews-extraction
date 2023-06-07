@@ -30,7 +30,8 @@ This Python script allows for easy extraction of product reviews from Amazon. By
 
 3. The extracted reviews will be saved in a CSV file.
 
-For a detailed tutorial on how to use this script, please refer to the [Amazon Reviews Extraction Tutorial](https://www.example.com/tutorial).
+For a detailed tutorial on how to use this script, please refer to the [Amazon Reviews Extraction Tutorial](https://www.youtube.com/watch?v=m-3kyQLIXlU).
+[![amazon reviews scrape](https://img.youtube.com/vi/m-3kyQLIXlU/0.jpg)](https://www.youtube.com/watch?v=m-3kyQLIXlU)
 
 ## Contact
 For any questions or feedback, feel free to reach out:
